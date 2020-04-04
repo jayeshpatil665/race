@@ -1,0 +1,38 @@
+=================================================================================
+---------------Client side Installation for Closing Open Port--------------------
+=================================================================================
+System Req:
+		Windows 7,or higher versions of windows operating systems
+Sofware Req: 
+		JAVA,JDK8 installed , with Globaly Path set
+---------------------------------------------------------------------------------
+Stap 1:
+	First Extract "install.zip"
+step 2:
+	copy "install" folder to ""C:\"
+step 3:
+	*Now your path must be "C:\install\ThisPcConnect.bat"
+	
+	Now Run "ThisPcConnect.bat"
+step 4:
+	press 1 to install
+	press 2 to check previous installation
+	press 0 to Exit
+
+	*Press 1
+		The Users of Current System will be Displayed
+		User accounts for \\DESKTOP-TN0QLN7
+
+---------------------------------------------------------------------------------
+Jayesh                    Administrator            DefaultAccount
+Guest                    WDAGUtilityAccount
+
+step 5:
+	Enter Your User Name :
+				Jayesh	
+step 6:
+	it will copy files to your "startup" folder
+	& to "C:\Cli\"
+step 7:
+	Installation Complete ! : Restart PC Now
+=================================================================================
